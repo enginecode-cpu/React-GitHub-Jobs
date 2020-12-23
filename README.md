@@ -1,6 +1,6 @@
 # GitHub Jobs Page
 ## 프로젝트 개요
-Gitbhub Jobs API를 이용해서 일자리를 보여주는 프로젝트
+GitHub Jobs API를 이용해서 일자리를 보여주는 프로젝트
 ## 프로젝트 시작하기
 ```
 yarn create react-app github-jobs
